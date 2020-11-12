@@ -1,0 +1,1 @@
+"""Citeste o valuare de la tastatura care contine o constanta"""

@@ -1,0 +1,10 @@
+#scoate toate fisierele netrebuitoare
+#ignore all file with .idea
+.idea/
+generate_nr_from_4/.idea/
+liste_from_stringuri/.idea/
+testproj/.idea/
+untitled1/.idea/
+untitled2/.idea/
+untitled3/.idea/
+workflow_state/.idea/
